@@ -1,0 +1,13 @@
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/bin/Debug/netcoreapp3.1/trycatchPratik.deps.json
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/bin/Debug/netcoreapp3.1/trycatchPratik.runtimeconfig.json
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/bin/Debug/netcoreapp3.1/trycatchPratik.runtimeconfig.dev.json
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/bin/Debug/netcoreapp3.1/trycatchPratik.dll
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/bin/Debug/netcoreapp3.1/trycatchPratik.pdb
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.csproj.AssemblyReference.cache
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.AssemblyInfoInputs.cache
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.AssemblyInfo.cs
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.csproj.CoreCompileInputs.cache
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.dll
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.pdb
+/Users/macburak/Desktop/Pratikler/trycatchPratik/trycatchPratik/obj/Debug/netcoreapp3.1/trycatchPratik.genruntimeconfig.cache
